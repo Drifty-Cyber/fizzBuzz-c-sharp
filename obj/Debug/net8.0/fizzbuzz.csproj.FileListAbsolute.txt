@@ -1,0 +1,14 @@
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\bin\Debug\net8.0\fizzbuzz.exe
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\bin\Debug\net8.0\fizzbuzz.deps.json
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\bin\Debug\net8.0\fizzbuzz.runtimeconfig.json
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\bin\Debug\net8.0\fizzbuzz.dll
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\bin\Debug\net8.0\fizzbuzz.pdb
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.dll
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\refint\fizzbuzz.dll
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.pdb
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\Drifty\Desktop\C#\new\fizzbuzz\obj\Debug\net8.0\ref\fizzbuzz.dll
